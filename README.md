@@ -2,9 +2,9 @@
 Deep Learning Project on Stance classification in Tweets
 
 
-FINAL NOTEBOOK: Final-Submission-Notebook.ipynb
-OTHER EXPERIMENTS: Assingment-2-DL-StableModel.ipynb
-                   Assingment-2-BiDirectional-LSTM.ipynb
+FINAL NOTEBOOK: Final-Submission-Notebook.ipynb <br />
+OTHER EXPERIMENTS: Assingment-2-DL-StableModel.ipynb <br />
+                   Assingment-2-BiDirectional-LSTM.ipynb <br /> <br />
                    
-BERT NOTEBOOK: BertModelForStance.ipynb
-TENSORFLOW HUB NOTEBOOK: Assingment_2_tf_hub_model.ipynb
+BERT NOTEBOOK: BertModelForStance.ipynb <br />
+TENSORFLOW HUB NOTEBOOK: Assingment_2_tf_hub_model.ipynb <br />
